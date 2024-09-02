@@ -18,9 +18,9 @@ Los fundamentos informan la base de cualquier gran interfaz de usuario, desde lo
 
 En Material.io, el sistema de diseño está organizado en tres partes principales: bases , estilos y componentes . Cada sección incluye herramientas y guías de diseño para ayudarte a personalizar y construir con Material.
 
-- **(1) Fundamentos y personalización:** Accesibilidad, diseño, estado de interacción, tokens de diseño y más.
-- **(2) Estilos:** SIstemas para aplicar color, tipografía, iconos, movimiento y forma.
-- **(3) Componentes:** Elementos de interfaz de usuario personalizables, desde menús hasta botones y cuadros de diálogo.
+- **Fundamentos y personalización:** Accesibilidad, diseño, estado de interacción, tokens de diseño y más.
+- **Estilos:** SIstemas para aplicar color, tipografía, iconos, movimiento y forma.
+- **Componentes:** Elementos de interfaz de usuario personalizables, desde menús hasta botones y cuadros de diálogo.
 
 ### (2) Estilos
 
@@ -28,14 +28,14 @@ Los estilos son los aspectos visuales de una interfaz de usuario que le dan un a
 
 - **Color:** El color se utiliza para expresar estilo y comunicar significado. Con colores dinámicos, Material pone las preferencias de color personales y las necesidades individuales en primer plano de la aplicación sistemática del color.
 - **Elevación:** La elevación es la distancia relativa entre dos superficies a lo largo del eje z. Todas las superficies y componentes tienen valores de elevación.
-- **Iconos:** Los iconos se pueden usar para representar acciones comunes. Los simbolos materiales son un conjunto de fuentes de iconos variables creadas con siete grosores y tres estilos diferentes.
+- **Iconos:** Los iconos se pueden usar para representar acciones comunes. Los simbolos materiales son un conjunto de fuentes de iconos variables creadas con siete grosores y tres estilos diferentes (Outlined, Filled, Rounded). Explora, personaliza y descarga símbolos de materiales de [Google Fonts](https://fonts.google.com/icons)
 - **Movimiento:** Utilice el movimiento para que la interfaz de usuario sea expresiva y fácil de usar. Las transiciones de materiales ayudan a guiar a los usuarios mientras navegan por una aplicación.
 - **Forma:** La escala de formas define el estilo de las esquinas del contenedor, ofreciendo una gama de redondez desde cuadrada hasta complemente circular.
-- **Tipografía:** Utilice la tipografía para que la escritura sea legible y atractiva. La escala de tipos predeterminada de Material incluye estilos contrastantes y flexibles para admitir una amplia variedad de casos de uso.
+- **Tipografía:** Utilice la tipografía para que la escritura sea legible y atractiva. La escala de tipos predeterminada de Material incluyen 5 roles: visualización, encabezado, título, cuerpo y etiqueta. Explora, personaliza y descarga tipografías desde [Google Fonts](https://fonts.google.com/)
 
 ### (3) Componentes
 
-Los componentes son bloques interactivos que permiten crear una interfaz de usuario. Se pueden organizar en categorías según su finalidad: acción, contención, comunicación, navegación, selección e introducción de texto.
+Los componentes son bloques interactivos que permiten crear una interfaz de usuario. Se pueden organizar en categorías según su finalidad: acción, contención, comunicación, navegación, selección e introducción de texto. Explora los componentes desde [material.io](https://m3.material.io/components)
 
 - **Comportamiento:** Los componentes de acción ayudan a las personas a lograr un objetivo. Estás son algunos: Common Buttons, Extended FAB, Floating action buttons, Icon buttons, segmented button.
 - **Comunicación:** Los componentes de comunicación proporcionan información útil. Estás son algunos: Badges, Progress indicators, Snackbar, Tooltips
@@ -44,7 +44,7 @@ Los componentes son bloques interactivos que permiten crear una interfaz de usua
 - **Selección:** Los componentes de selección permiten a las personas especificar opciones. Estás son algunos: Checkbox, Chips, Date pickers, Menus, Radio button, sliders, Switch, Time pickers
 - **Entradas de texto:** Los componentes de ingreso de texto permiten a las personas ingresar y editar texto. Estás son algunos: Text fields.
 
-Para probar estos componentes se recomienda está aplicacion [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog&pcampaignid=web_share), descargue e instale en su dispositivo móvil.
+Para probar estos componentes se recomienda el siguiente aplicación [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog&pcampaignid=web_share), descargue e instale en su dispositivo móvil.
 
 ## Material Design 3 (MD3)
 
