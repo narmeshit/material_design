@@ -56,3 +56,12 @@ La última versión, Material 3, permite experiencias personales, adaptables y e
 A new Flutter project.
 - **Accesibilidad:** Asegurar que los diseños sean accesibles para todos los usuarios es un principio fundamental. MD3 sigue enfocándose en la legibilidad, el contraste de colores y el soporte para diferentes métodos de entrada.
 - **Simplicidad y Claridad:** El sistema promueve elementos de la interfaz de usuario claros y consistentes que mejoran la usabilidad y la experiencia del usuario.
+
+## Enlaces
+
+- [Material Design 2](https://m2.material.io/components)
+- [Material Design 3](https://m3.material.io/)
+- [Widgets de componentes de material](https://docs.flutter.dev/ui/widgets/material)
+- [Ejemplo 01 proyecto web hecho con flutter](https://wonderous.app/web/#/home)
+- [Ejemplo 02 Widgets de M3](https://flutter.github.io/samples/web/material_3_demo/)
+- [Proyectos de ejemplos de Codelabs](https://github.com/flutter/codelabs)
