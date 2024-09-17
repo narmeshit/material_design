@@ -22,7 +22,7 @@ En Material.io, el sistema de diseño está organizado en tres partes principale
 - **Estilos:** SIstemas para aplicar color, tipografía, iconos, movimiento y forma.
 - **Componentes:** Elementos de interfaz de usuario personalizables, desde menús hasta botones y cuadros de diálogo.
 
-### (2) Estilos
+### Estilos
 
 Los estilos son los aspectos visuales de una interfaz de usuario que le dan un aspecto distintivo. Se pueden personalizar modificando el tema de Material.
 
@@ -33,7 +33,7 @@ Los estilos son los aspectos visuales de una interfaz de usuario que le dan un a
 - **Forma:** La escala de formas define el estilo de las esquinas del contenedor, ofreciendo una gama de redondez desde cuadrada hasta complemente circular.
 - **Tipografía:** Utilice la tipografía para que la escritura sea legible y atractiva. La escala de tipos predeterminada de Material incluyen 5 roles: visualización, encabezado, título, cuerpo y etiqueta. Explora, personaliza y descarga tipografías desde [Google Fonts](https://fonts.google.com/)
 
-### (3) Componentes
+### Componentes
 
 Los componentes son bloques interactivos que permiten crear una interfaz de usuario. Se pueden organizar en categorías según su finalidad: acción, contención, comunicación, navegación, selección e introducción de texto. Explora los componentes desde [material.io](https://m3.material.io/components)
 
